@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout << "Hello World!" << '\n';
-	return 0;
+    cout << "Hello MinGW!" << endl;
+    return 0;
 }
