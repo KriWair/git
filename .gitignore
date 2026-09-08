@@ -1,1 +1,8 @@
-.exe
+# C++编译产物
+*.exe
+*.o
+*.out
+*.obj
+
+# VSCode配置
+.vscode/
