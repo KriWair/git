@@ -1,8 +1,32 @@
-# C++编译产物
+#======== C++ =========
 *.exe
+*.exe~
 *.o
-*.out
 *.obj
+*.out
 
-# VSCode配置
+#======== Python =========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+#======== Java =========
+*.class
+target/
+bin/
+*.jar
+*.war
+*.log
+.idea/
+
+#======== VSCode 通用配置 ========
 .vscode/
