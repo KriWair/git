@@ -30,3 +30,5 @@ bin/
 
 #======== VSCode 通用配置 ========
 .vscode/
+
+*.html
